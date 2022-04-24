@@ -15,6 +15,11 @@ export default function Nav() {
                         About
                     </Link>
                 </li>
+                <li>
+                    <Link href="/nose">
+                        No se
+                    </Link>
+                </li>
             </ul>
         </nav>
     );

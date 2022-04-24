@@ -30,6 +30,11 @@
   font-family: "Roboto", sans-serif;
 }
 
-.nav Link:visited {
+.nav a {
   color: white;
+  text-decoration: none;
+}
+.nav a:visited {
+  color: white;
+  text-decoration: none;
 }
